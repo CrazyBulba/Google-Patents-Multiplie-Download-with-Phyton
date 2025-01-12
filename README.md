@@ -14,3 +14,5 @@ And installed modules:
 2. If it exists in Google.Patents database, the script will download it automatically.
 3. All downloaded pdf-files will be saved to the "pdf" folder.
 4. If the patent is unavailable or does't exist - relevant note will save into file "errors.txt"
+
+At the first use, the chromium browser will be downloaded (~150 MB).
