@@ -1,4 +1,4 @@
-# Google-Patents-Multiplie-Download-with-Phyton
+# Google Patents Multiplie Download Script
 Allow to download a multiplie patents from Google.Patents site
 
 Script requires a Phyton ver >= 3.6
